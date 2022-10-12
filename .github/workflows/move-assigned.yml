@@ -20,4 +20,4 @@ jobs:
         with:
           project: Testing
           column: In Progress
-          repo-token: ${{ secrets.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 }}
+          repo-token: ${{ secrets.YOUR_SECRET_NAME }}
