@@ -20,4 +20,4 @@ jobs:
         with:
           project:Testing
           column:In Progress
-          repo-token: ${{ secrets.YOUR_SECRET_NAME }}
+          repo-token:${{ secrets.YOUR_SECRET_NAME }}
